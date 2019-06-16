@@ -1,0 +1,15 @@
+E:\dot net\Project\MenuTry\MenuTry\MenuTry\bin\Debug\student.mdf
+E:\dot net\Project\MenuTry\MenuTry\MenuTry\bin\Debug\student_log.ldf
+E:\dot net\Project\MenuTry\MenuTry\MenuTry\bin\Debug\MenuTry.exe.config
+E:\dot net\Project\MenuTry\MenuTry\MenuTry\bin\Debug\MenuTry.exe
+E:\dot net\Project\MenuTry\MenuTry\MenuTry\bin\Debug\MenuTry.pdb
+E:\dot net\Project\MenuTry\MenuTry\MenuTry\obj\x86\Debug\MenuTry.exe
+E:\dot net\Project\MenuTry\MenuTry\MenuTry\obj\x86\Debug\MenuTry.pdb
+E:\dot net\Project\studentinformation\studentinformation\studentinformation\bin\Debug\MenuTry.exe.config
+E:\dot net\Project\studentinformation\studentinformation\studentinformation\obj\x86\Debug\MenuTry.exe
+E:\dot net\Project\studentinformation\studentinformation\studentinformation\obj\x86\Debug\MenuTry.pdb
+E:\dot net\Project\studentinformation\studentinformation\studentinformation\bin\Debug\student.mdf
+E:\dot net\Project\studentinformation\studentinformation\studentinformation\bin\Debug\student_log.ldf
+E:\dot net\Project\studentinformation\studentinformation\studentinformation\bin\Debug\MenuTry.exe
+E:\dot net\Project\studentinformation\studentinformation\studentinformation\bin\Debug\MenuTry.pdb
+E:\dot net\Project\studentinformation\studentinformation\studentinformation\obj\x86\Debug\studentinformation.csprojResolveAssemblyReference.cache
